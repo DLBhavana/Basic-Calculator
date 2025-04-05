@@ -1,0 +1,49 @@
+Basic Calculator
+
+Test Case-1:
+
+Select an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+1
+Enter first number: 43
+Enter second number: 56
+Result: 99.0
+
+Test Case-2:
+
+Select an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+2
+Enter first number: 65
+Enter second number: 34
+Result: 31.0
+
+Test Case-3:
+
+Select an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+3
+Enter first number: 46
+Enter second number: 2
+Result: 92.0
+
+Test Case-4:
+
+Select an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+4
+Enter first number: 1024
+Enter second number: 10
+Result: 102.4
